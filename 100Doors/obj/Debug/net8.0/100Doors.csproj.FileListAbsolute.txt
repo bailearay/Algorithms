@@ -1,0 +1,14 @@
+c:\Users\bdr23606\code\Algorithms\100Doors\bin\Debug\net8.0\100Doors.exe
+c:\Users\bdr23606\code\Algorithms\100Doors\bin\Debug\net8.0\100Doors.deps.json
+c:\Users\bdr23606\code\Algorithms\100Doors\bin\Debug\net8.0\100Doors.runtimeconfig.json
+c:\Users\bdr23606\code\Algorithms\100Doors\bin\Debug\net8.0\100Doors.dll
+c:\Users\bdr23606\code\Algorithms\100Doors\bin\Debug\net8.0\100Doors.pdb
+c:\Users\bdr23606\code\Algorithms\100Doors\obj\Debug\net8.0\100Doors.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bdr23606\code\Algorithms\100Doors\obj\Debug\net8.0\100Doors.AssemblyInfoInputs.cache
+c:\Users\bdr23606\code\Algorithms\100Doors\obj\Debug\net8.0\100Doors.AssemblyInfo.cs
+c:\Users\bdr23606\code\Algorithms\100Doors\obj\Debug\net8.0\100Doors.csproj.CoreCompileInputs.cache
+c:\Users\bdr23606\code\Algorithms\100Doors\obj\Debug\net8.0\100Doors.dll
+c:\Users\bdr23606\code\Algorithms\100Doors\obj\Debug\net8.0\refint\100Doors.dll
+c:\Users\bdr23606\code\Algorithms\100Doors\obj\Debug\net8.0\100Doors.pdb
+c:\Users\bdr23606\code\Algorithms\100Doors\obj\Debug\net8.0\100Doors.genruntimeconfig.cache
+c:\Users\bdr23606\code\Algorithms\100Doors\obj\Debug\net8.0\ref\100Doors.dll
